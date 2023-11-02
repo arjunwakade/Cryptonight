@@ -1,4 +1,4 @@
-# Play Nice
+# CAAS
 ## Description:
 Now presenting [cowsay as a service](https://caas.mars.picoctf.net/)
 ## Solution:
